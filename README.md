@@ -1,3 +1,2 @@
-# KillHandles
-
-Attempts to detect all handles owned by target PID and close them via `NtDuplicateObject` + `DUPLICATE_CLOSE_SOURCE` flag.
+Kill Handles by PID
+![image](https://github.com/user-attachments/assets/11b7f900-2458-4efc-83ba-588b38360c02)
